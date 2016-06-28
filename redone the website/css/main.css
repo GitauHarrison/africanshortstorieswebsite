@@ -155,3 +155,20 @@ Footer
 	padding-bottom: 10px;
 	padding-top: 30px;
 }
+/*============
+Pages
+================*/
+.pages{
+	padding-bottom: 20px;
+}
+.page-header{
+	padding-top: 10px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: 500;
+}
+.main-content{
+	background-color: #f2f2f2;
+	padding-right: 80px;
+	padding-left: 80px;
+}
