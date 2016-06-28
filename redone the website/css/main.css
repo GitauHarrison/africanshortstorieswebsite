@@ -162,13 +162,15 @@ Pages
 	padding-bottom: 20px;
 }
 .page-header{
-	padding-top: 10px;
+	padding-top: 20px;
 	text-align: center;
 	font-size: 30px;
 	font-weight: 500;
+	line-height: 20px;
 }
 .main-content{
 	background-color: #f2f2f2;
-	padding-right: 80px;
-	padding-left: 80px;
+	padding-right: 100px;
+	padding-left: 100px;
+
 }
