@@ -71,6 +71,7 @@ footer
 	float: left;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	font-family: 'Cormorant Garamond', serif;
 }
 /*===============
 clearfix
@@ -169,6 +170,7 @@ Pages
 	font-size: 30px;
 	font-weight: 500;
 	line-height: 20px;
+	font-family: 'Slabo 27px', serif;
 }
 .main-content{
 	background-color: #f2f2f2;
